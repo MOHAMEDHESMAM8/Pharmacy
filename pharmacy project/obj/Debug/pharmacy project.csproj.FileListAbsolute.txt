@@ -1,0 +1,16 @@
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\bin\Debug\pharmacy project.exe.config
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\bin\Debug\pharmacy project.exe
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\bin\Debug\pharmacy project.pdb
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy project.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Form1.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Properties.Resources.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy project.csproj.GenerateResource.cache
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy project.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy project.exe
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy project.pdb
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Forms.InvoicesForm.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Forms.SalesForm.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Forms.Search.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Forms.UsersForm.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Forms.Products.resources
+C:\Users\Mohamed\source\repos\pharmacy project\pharmacy project\obj\Debug\pharmacy_project.Forms.Login.resources
